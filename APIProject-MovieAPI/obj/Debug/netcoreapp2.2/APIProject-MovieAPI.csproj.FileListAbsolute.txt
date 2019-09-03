@@ -1,0 +1,70 @@
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.deps.json
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.runtimeconfig.json
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.runtimeconfig.dev.json
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.dll
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.pdb
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.Views.dll
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.Views.pdb
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.csproj.CoreCompileInputs.cache
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.AssemblyInfoInputs.cache
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.AssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.TagHelpers.input.cache
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.TagHelpers.output.cache
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorCoreGenerate.cache
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorTargetAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.Views.pdb
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.dll
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.pdb
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.csproj.CopyComplete
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.csprojAssemblyReference.cache
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Movie\DisplayMovie.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\APIProject-MovieAPI\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Movie\SearchByTitle.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.deps.json
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.runtimeconfig.json
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.runtimeconfig.dev.json
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.dll
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.pdb
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.Views.dll
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\bin\Debug\netcoreapp2.2\APIProject-MovieAPI.Views.pdb
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.csprojAssemblyReference.cache
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.csproj.CoreCompileInputs.cache
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorAssemblyInfo.cache
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorAssemblyInfo.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.AssemblyInfoInputs.cache
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.AssemblyInfo.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.TagHelpers.input.cache
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.TagHelpers.output.cache
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorCoreGenerate.cache
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Movie\DisplayMovie.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Index.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Movie\SearchByTitle.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorTargetAssemblyInfo.cache
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.RazorTargetAssemblyInfo.cs
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.Views.pdb
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.dll
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.pdb
+C:\Users\achia\OneDrive\Desktop\APIProjectFile\APIProjectMovies\APIProject-MovieAPI\obj\Debug\netcoreapp2.2\APIProject-MovieAPI.csproj.CopyComplete
